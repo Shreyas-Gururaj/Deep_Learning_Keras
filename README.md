@@ -6,8 +6,8 @@ This repo contains the respective application of some interesting sub topics cov
 
 | Topic | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Regression and normalization](https://github.com/Shreyas-Gururaj/Machine_Learning/tree/master/Regression%20(Predicting%20house%20prices)) | Regression: Predicting House Prices and the effect of data normalization |
-| [Overfitting and Underfitting](https://github.com/Shreyas-Gururaj/Machine_Learning/tree/master/Classification%20(Sentiment%20analysis%20NLP)) | Weight regularization, Early stopping and dropout |
-| [Multiclass Classification](https://github.com/Shreyas-Gururaj/Machine_Learning/tree/master/Clustering(Document%20Retrieval)) | Reuters dataset with 90 classes |
-| [Sentiment Analysis](https://github.com/Shreyas-Gururaj/Machine_Learning/tree/master/Collaborative%20Filtering(Song%20Recommendation)) | IMDB review sentiment prediction |
-| [Image Classification](https://github.com/Shreyas-Gururaj/Machine_Learning/tree/master/Image%20classification%20and%20retrieval(using%20deep%20features)) | MNIST dataset with 10 classes |
+| [Regression and normalization](https://github.com/Shreyas-Gururaj/Deep_Learning_Keras/tree/master/Regression%20and%20normalization) | Regression: Predicting House Prices and the effect of data normalization |
+| [Overfitting and Underfitting](https://github.com/Shreyas-Gururaj/Deep_Learning_Keras/tree/master/Overfitting%20and%20Underfitting) | Weight regularization, Early stopping and dropout |
+| [Multiclass Classification](https://github.com/Shreyas-Gururaj/Deep_Learning_Keras/tree/master/Multiclass%20Classification) | Reuters dataset with 90 classes |
+| [Sentiment Analysis](https://github.com/Shreyas-Gururaj/Deep_Learning_Keras/tree/master/Sentiment%20Analysis) | IMDB review sentiment prediction |
+| [Image Classification](https://github.com/Shreyas-Gururaj/Deep_Learning_Keras/tree/master/Image%20Classification) | MNIST dataset with 10 classes |
